@@ -5,11 +5,11 @@
   "description": "",
   "keywords": [],
   "main": "src/index.js",
-"homepage":"https://mohithgupta.github.io/todoreactapp/",
+  "homepage": "https://mohithgupta.github.io/todoreactapp/",
   "dependencies": {
-    "@material-ui/core": "4.11.0",
-    "@material-ui/icons": "4.9.1",
-     "@testing-library/jest-dom": "^4.2.4",
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "^4.9.1",
+    "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "gh-pages": "^3.1.0",
@@ -26,13 +26,13 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
-"predeploy" : "npm build",
-"deploy":"gh-pages -d build"
+    "predeploy": "yarn build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
   },
-   "browserslist": {
+  "browserslist": {
     "production": [
       ">0.2%",
       "not dead",
