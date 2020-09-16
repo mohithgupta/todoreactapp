@@ -1,23 +1,19 @@
 {
   "files": {
-    "main.css": "/todoreactapp/static/css/main.5f361e03.chunk.css",
-    "main.js": "/todoreactapp/static/js/main.83d541e3.chunk.js",
-    "main.js.map": "/todoreactapp/static/js/main.83d541e3.chunk.js.map",
-    "runtime-main.js": "/todoreactapp/static/js/runtime-main.4a590821.js",
-    "runtime-main.js.map": "/todoreactapp/static/js/runtime-main.4a590821.js.map",
-    "static/js/2.50bc74e9.chunk.js": "/todoreactapp/static/js/2.50bc74e9.chunk.js",
-    "static/js/2.50bc74e9.chunk.js.map": "/todoreactapp/static/js/2.50bc74e9.chunk.js.map",
+    "main.js": "/todoreactapp/static/js/main.6f2ea43b.chunk.js",
+    "main.js.map": "/todoreactapp/static/js/main.6f2ea43b.chunk.js.map",
+    "runtime-main.js": "/todoreactapp/static/js/runtime-main.0bf19f7f.js",
+    "runtime-main.js.map": "/todoreactapp/static/js/runtime-main.0bf19f7f.js.map",
+    "static/js/2.0d14335a.chunk.js": "/todoreactapp/static/js/2.0d14335a.chunk.js",
+    "static/js/2.0d14335a.chunk.js.map": "/todoreactapp/static/js/2.0d14335a.chunk.js.map",
     "index.html": "/todoreactapp/index.html",
-    "precache-manifest.24854553e548f9aabf4adc9d61f3dd24.js": "/todoreactapp/precache-manifest.24854553e548f9aabf4adc9d61f3dd24.js",
+    "precache-manifest.b5c01049cb504b3851a04f8ada6d0bee.js": "/todoreactapp/precache-manifest.b5c01049cb504b3851a04f8ada6d0bee.js",
     "service-worker.js": "/todoreactapp/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/todoreactapp/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.50bc74e9.chunk.js.LICENSE.txt": "/todoreactapp/static/js/2.50bc74e9.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/todoreactapp/static/media/logo.5d5d9eef.svg"
+    "static/js/2.0d14335a.chunk.js.LICENSE.txt": "/todoreactapp/static/js/2.0d14335a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4a590821.js",
-    "static/js/2.50bc74e9.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.83d541e3.chunk.js"
+    "static/js/runtime-main.0bf19f7f.js",
+    "static/js/2.0d14335a.chunk.js",
+    "static/js/main.6f2ea43b.chunk.js"
   ]
 }
