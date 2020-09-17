@@ -148,3 +148,9 @@ form.create-note button:active,
 form.create-note button:hover {
   background: rgba(0, 0, 255, 1);
 }
+
+@media and screen (max-width : 410px ) {
+  header {
+    margin: auto -40px;
+  }
+}
