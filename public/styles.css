@@ -38,6 +38,7 @@ header h1,
 
 header .designed {
   color: #000;
+  font-size: 1rem;
   position: absolute;
   right: 20px;
   top: 20px;
