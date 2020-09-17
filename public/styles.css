@@ -28,8 +28,7 @@ header {
   background-image: linear-gradient(to top, #4481eb 0%, #04befe 100%);
 }
 
-header h1,
-.sections h1 {
+header h1{
   color: #fff;
   padding: 0 auto;
   font-family: "McLaren", cursive;
@@ -150,8 +149,32 @@ form.create-note button:hover {
   background: rgba(0, 0, 255, 1);
 }
 
-@media and screen (max-width : 410px ) {
+@media screen and (max-width : 730px ) {
   header {
-    margin: auto -40px;
+    padding-bottom: 30px;
+  }
+  header a {
+    text-decoration:underline;
+  color :#000;
+  }
+  header p,header .designed{
+    position : static;
+        margin-top :5px;
+    float:right;
+  }
+}
+
+@media screen and (max-width : 520px) {
+form.create-note {
+    width :auto;
+  }
+  header h1{
+    font-size : 1.5rem;
+  }
+}
+
+@media screen and (max-width : 420px) {
+  header h1{
+    font-size : 1.3rem;
   }
 }

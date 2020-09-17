@@ -10,12 +10,13 @@ function Header() {
         <HighlightIcon /> Work Smart - Work Fast <HighlightIcon />
       </h1>
       <p className="designed">
-        Designed by :{" "}
+         Designed by {":"}
         <a href="https://mohithgupta.github.io/" rel="noopener noreferrer" target="_blank">
           Mohith Gupta
         </a>
+
       </p>
-      <p>Copyright ⓒ {year}</p>
+      <p>Copyright ⓒ {year} . </p>
     </header>
   );
 }
