@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/todoreactapp/static/js/main.6f2ea43b.chunk.js",
-    "main.js.map": "/todoreactapp/static/js/main.6f2ea43b.chunk.js.map",
+    "main.js": "/todoreactapp/static/js/main.adf6ce83.chunk.js",
+    "main.js.map": "/todoreactapp/static/js/main.adf6ce83.chunk.js.map",
     "runtime-main.js": "/todoreactapp/static/js/runtime-main.0bf19f7f.js",
     "runtime-main.js.map": "/todoreactapp/static/js/runtime-main.0bf19f7f.js.map",
-    "static/js/2.0d14335a.chunk.js": "/todoreactapp/static/js/2.0d14335a.chunk.js",
-    "static/js/2.0d14335a.chunk.js.map": "/todoreactapp/static/js/2.0d14335a.chunk.js.map",
+    "static/js/2.54f9d04d.chunk.js": "/todoreactapp/static/js/2.54f9d04d.chunk.js",
+    "static/js/2.54f9d04d.chunk.js.map": "/todoreactapp/static/js/2.54f9d04d.chunk.js.map",
     "index.html": "/todoreactapp/index.html",
-    "precache-manifest.d699b26010cc43188ea58fa61e7db703.js": "/todoreactapp/precache-manifest.d699b26010cc43188ea58fa61e7db703.js",
+    "precache-manifest.c40965ed5eff0c5635c533801775c2bb.js": "/todoreactapp/precache-manifest.c40965ed5eff0c5635c533801775c2bb.js",
     "service-worker.js": "/todoreactapp/service-worker.js",
-    "static/js/2.0d14335a.chunk.js.LICENSE.txt": "/todoreactapp/static/js/2.0d14335a.chunk.js.LICENSE.txt"
+    "static/js/2.54f9d04d.chunk.js.LICENSE.txt": "/todoreactapp/static/js/2.54f9d04d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0bf19f7f.js",
-    "static/js/2.0d14335a.chunk.js",
-    "static/js/main.6f2ea43b.chunk.js"
+    "static/js/2.54f9d04d.chunk.js",
+    "static/js/main.adf6ce83.chunk.js"
   ]
 }
