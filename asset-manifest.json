@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/todoreactapp/static/js/main.adf6ce83.chunk.js",
-    "main.js.map": "/todoreactapp/static/js/main.adf6ce83.chunk.js.map",
+    "main.js": "/todoreactapp/static/js/main.062a8581.chunk.js",
+    "main.js.map": "/todoreactapp/static/js/main.062a8581.chunk.js.map",
     "runtime-main.js": "/todoreactapp/static/js/runtime-main.0bf19f7f.js",
     "runtime-main.js.map": "/todoreactapp/static/js/runtime-main.0bf19f7f.js.map",
     "static/js/2.54f9d04d.chunk.js": "/todoreactapp/static/js/2.54f9d04d.chunk.js",
     "static/js/2.54f9d04d.chunk.js.map": "/todoreactapp/static/js/2.54f9d04d.chunk.js.map",
     "index.html": "/todoreactapp/index.html",
-    "precache-manifest.a7dcad514ee56ae168d96ae73c31fefc.js": "/todoreactapp/precache-manifest.a7dcad514ee56ae168d96ae73c31fefc.js",
+    "precache-manifest.1a582910dc73dbd70319ffacbbd6b24d.js": "/todoreactapp/precache-manifest.1a582910dc73dbd70319ffacbbd6b24d.js",
     "service-worker.js": "/todoreactapp/service-worker.js",
     "static/js/2.54f9d04d.chunk.js.LICENSE.txt": "/todoreactapp/static/js/2.54f9d04d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0bf19f7f.js",
     "static/js/2.54f9d04d.chunk.js",
-    "static/js/main.adf6ce83.chunk.js"
+    "static/js/main.062a8581.chunk.js"
   ]
 }
