@@ -150,18 +150,24 @@ form.create-note button:hover {
 }
 
 @media screen and (max-width : 730px ) {
-  header {
-    padding-bottom: 30px;
+  header{
+    padding-bottom:25px;
+  }
+  header h1{
+    text-align: center;
   }
   header a {
     text-decoration:underline;
   color :#000;
   }
-  header p,header .designed{
+header .designed{
     position : static;
         margin-top :5px;
     float:right;
   }
+    header .copyright{
+      display:none;
+    }
 }
 
 @media screen and (max-width : 520px) {
@@ -175,6 +181,6 @@ form.create-note {
 
 @media screen and (max-width : 420px) {
   header h1{
-    font-size : 1.3rem;
+    font-size : 1.4rem;
   }
 }
