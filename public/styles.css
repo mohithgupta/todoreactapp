@@ -35,9 +35,6 @@ header h1,
   font-family: "McLaren", cursive;
   font-weight: 200;
 }
-header{
-  font-size: 0.7rem;
-}
 header .designed {
   color: #000;
   position: absolute;
@@ -55,6 +52,7 @@ header a:hover {
 }
 header p {
   color: #000;
+  font-size: 0.7rem;
   position: absolute;
   right: 20px;
   top: 45px;
